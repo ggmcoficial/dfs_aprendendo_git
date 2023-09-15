@@ -1,3 +1,6 @@
 git init - inicializando um repo git
 git status - Veriifcar o status do repo
-git add . - Adiciona todos os arquivos no rastreio do giti
+git add . - Adiciona todos os arquivos no rastreio do git
+git commit -m - comentar as modificações
+
+git push - Enviar paara Github
