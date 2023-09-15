@@ -1,0 +1,3 @@
+git init - inicializando um repo git
+git status - Veriifcar o status do repo
+git add . - Adiciona todos os arquivos no rastreio do giti
